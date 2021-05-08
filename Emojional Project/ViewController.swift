@@ -10,7 +10,7 @@ import UIKit
 class ViewController: UIViewController {
 
     let emojis = ["🥲": "sad", "🥰" : "happy ", "🤯" : "mindblown"]
-    
+        
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
